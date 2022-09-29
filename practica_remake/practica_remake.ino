@@ -4,6 +4,7 @@ serial_class calcular;
 void setup()
 {
   Serial.begin(115200);
+  //Data rate is set, bits for second (Baud) in the serial port.    
 }
 
 void loop()
